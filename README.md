@@ -59,4 +59,3 @@ ObjectId
 To have association , use Objectd class
 ```
 
-
